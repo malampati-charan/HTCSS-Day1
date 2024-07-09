@@ -1,0 +1,21 @@
+.box{
+    max-width: 650px;
+    margin: 300px auto;
+    background-color: #67f7a1;
+    padding: 60px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    border-radius: 14px;
+}
+
+.but{
+    border-radius: 14px;
+    padding: 10px;
+    border: none;
+    background-color: white;
+    margin: 10px;
+}
+
+.box h1{
+    margin: 0;
+}
